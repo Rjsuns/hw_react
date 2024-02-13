@@ -1,0 +1,16 @@
+.Todo{
+    border: 1px solid blueviolet;
+    width: 250px;
+    padding: 10px;
+    color: black;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

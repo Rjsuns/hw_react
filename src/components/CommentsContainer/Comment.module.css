@@ -1,0 +1,23 @@
+.Comment{
+    width: 200px;
+    padding: 10px;
+    border: 1px solid blueviolet;
+    color: black;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.CommentPage{
+    display: flex;
+}
+
+.Comment button{
+    margin-top: 10px;
+    width: 100px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
