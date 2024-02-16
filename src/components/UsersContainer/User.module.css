@@ -1,0 +1,22 @@
+.userDiv {
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+}
+
+.userDiv button{
+    border: none;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+
+.userContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
