@@ -1,0 +1,15 @@
+.Episodes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Episode {
+    border: 1px solid;
+    width: calc(20% - 2px);
+    cursor: pointer;
+}
+
+.Buttons{
+    display: flex;
+    justify-content: space-between;
+}
